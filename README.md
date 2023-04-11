@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/dj11q54na3298jn7/branch/main?svg=true)](https://ci.appveyor.com/project/Dmitriy-Nabokov/java-pageobjects/branch/main)
